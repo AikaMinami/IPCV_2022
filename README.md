@@ -1,1 +1,1 @@
-This repository is used for 1st Modul in lecture Image Processing and Computer Vision
+This repository is used for modul in Image Processing and Computer Vision subject.
